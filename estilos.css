@@ -1,0 +1,38 @@
+body {
+	background: gray;
+}
+
+video {
+	width: 600px;
+	height: 350px;
+}
+
+img {
+	width: 400px;
+	height: 350px;
+
+	border: 2px solid orange;
+	margin: 30px;
+	padding: 20px;
+
+
+	background: yellow;
+
+}
+
+
+
+img:hover {
+	background: orange;
+	border-radius: 20px;
+}
+
+
+h1{
+     color: #AAAAFF;
+
+}
+
+.parrafo1 {
+	color: pink;
+}
